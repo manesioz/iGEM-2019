@@ -24,3 +24,7 @@ plt.ylabel("Probability")
 plt.show() 
 
 
+'''
+Enzyme pathway: indole-3-acetic acid pathway (creates auxin, IAAH and IAAM are the two enzymes that are attatched to the TALs) 
+'''
+
